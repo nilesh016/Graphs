@@ -1,5 +1,8 @@
 #C++ code for undirected unweighted graph
 
+Time Complexity :- O(V^2) 
+Space Complexity:- O(V^2)
+
 #include<bits/stdc++.h>
 using namespace std;
 
